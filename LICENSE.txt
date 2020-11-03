@@ -1,5 +1,11 @@
 MIT License
 
+/
+ icsharpcode/SharpZipLib
+ Copyright © 2000-2018 SharpZipLib Contributors
+ Free to use under the MIT license.
+ http://www.opensource.org/licenses/mit-license.php
+
 Copyright (c) 2020 InfinityEx
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
